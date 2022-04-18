@@ -2,7 +2,7 @@
 
 > This is a simple JavaScript project that simulates drum sounds on pressing the displayed keys on the device keyboard
 
-### Click [here](https://d2ndjim.github.io/Film-Finder/) to see deployed live version
+### Click [here](https://d2ndjim.github.io/JS-DrumKit/) to see deployed live version
 
 ### Features implemented so far are:
 
