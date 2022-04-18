@@ -6,7 +6,7 @@
 
 ### Features implemented so far are:
 
-- Responsive HTML page
+- Simulate Drum sound on key press
 
 ## Built With
 
